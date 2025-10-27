@@ -1,7 +1,3 @@
-Abaixo está o arquivo Markdown formatado com um viés tecnológico e animado, pronto para ser usado no GitHub, seguindo os passos que você forneceu para instalar o Docker no Ubuntu 25.04 (que usa o codinome `plucky`):
-
------
-
 # 🚀 Docker Installation Guide: Ubuntu 25.04 (Plucky)
 
 **Bem-vindo ao futuro da conteinerização\!** Siga este guia rápido e direto para implantar o **Docker Engine** na sua máquina com Ubuntu 25.04, garantindo que seu ambiente esteja pronto para rodar qualquer aplicação em contêineres leves.
